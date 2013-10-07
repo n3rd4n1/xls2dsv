@@ -1,0 +1,514 @@
+1904: 1904 Date System
+22h
+ADDIN: Workbook Is an Add-in Macro
+87h
+ADDMENU: Menu Addition
+C2h
+ARRAY: Array-Entered Formula
+221h
+AUTOFILTER: AutoFilter Data
+9Eh
+AUTOFILTER12: AutoFilter Data Introduced in Excel 2007
+87Eh
+AUTOFILTERINFO: Drop-Down Arrow Count
+9Dh
+BACKUP: Save Backup Version of the File
+40h
+BLANK: Cell Value, Blank Cell
+201h
+BOF: Beginning of File
+809h
+BOOKBOOL: Workbook Option Flag
+DAh
+BOOKEXT: Extra Book Info
+863h
+BOOLERR: Cell Value, Boolean or Error
+205h
+BOTTOMMARGIN: Bottom Margin Measurement
+29h
+BOUNDSHEET: Sheet Information
+85h
+CALCCOUNT: Iteration Count
+0Ch
+CALCMODE: Calculation Mode
+0Dh
+CELLWATCH: Cell Watch
+86Ch
+CF: Conditional Formatting Conditions
+1B1h
+CF12: Conditional Formatting Condition 12
+87Ah
+CFEX: Conditional Formatting Extension
+87Bh
+CODENAME: VBE Object Name
+42h
+CODEPAGE: Default Code Page
+42h
+COLINFO: Column Formatting Information
+7Dh
+COMPAT12: Compatibility Checker 12
+88Ch
+COMPRESSPICTURES: Automatic Picture Compression Mode
+89Bh
+CONDFMT: Conditional Formatting Range Information
+1B0h
+CONDFMT12: Conditional Formatting Range Information 12
+879h
+CONTINUE: Continues Long Records
+3Ch
+CONTINUEFRT: Continued FRT
+812h
+CONTINUEFRT11: Continue FRT 11
+875h
+CONTINUEFRT12: Continued FRT 12
+87Fh
+COORDLIST: Polygon Object Vertex Coordinates
+A9h
+COUNTRY: Default Country and WIN.INI Country
+8Ch
+CRASHRECERR: Crash Recovery Error
+865h
+CRN: Nonresident Operands
+5Ah
+CRTCOOPT: Color options for Chart series in Mac Office 11
+8cbh
+DATALABEXT: Chart Data Label Extension
+86Ah
+DATALABEXTCONTENTS: Chart Data Label Extension Contents
+86Bh
+DBCELL: Stream Offsets
+D7h
+DBQUERYEXT: Database Query Extensions
+803h
+DCON: Data Consolidation Information
+50h
+DCONBIN: Data Consolidation Information
+1B5h
+DCONN: Data Connection
+876h
+DCONNAME: Data Consolidation Named References
+52h
+DCONREF: Data Consolidation References
+51h
+DEFAULTROWHEIGHT: Default Row Height
+225h
+DEFCOLWIDTH: Default Width for Columns
+55h
+DELMENU: Menu Deletion
+C3h
+DELTA: Iteration Increment
+10h
+DIMENSIONS: Cell Table Size
+200h
+DOCROUTE: Routing Slip Information
+B8h
+DROPDOWNOBJIDS: Drop Down Object
+874h
+DSF: Double Stream File
+161h
+DV: Data Validation Criteria
+1BEh
+DVAL: Data Validation Information
+1B2h
+DXF: Differential XF
+88Dh
+EDG: Edition Globals
+88h
+EOF: End of File
+0Ah
+EXCEL9FILE: Excel 9 File
+1C0h
+EXTERNCOUNT: Number of External References
+16h
+EXTERNNAME: Externally Referenced Name
+223h
+EXTERNSHEET: External Reference
+17h
+EXTSST: Extended Shared String Table
+FFh
+EXTSTRING: FRT String
+804h
+FEAT: Shared Feature Record
+868h
+FEAT11: Shared Feature 11 Record
+872h
+FEAT12: Shared Feature 12 Record
+878h
+FEATHEADR: Shared Feature Header
+867h
+FEATHEADR11: Shared Feature Header 11
+871h
+FEATINFO: Shared Feature Info Record
+86dh
+FEATINFO11: Shared Feature Info 11 Record
+873h
+FILEPASS: File Is Password-Protected
+2Fh
+FILESHARING: File-Sharing Information
+5Bh
+FILESHARING2: File-Sharing Information for Shared Lists
+1A5h
+FILTERMODE: Sheet Contains Filtered List
+9Bh
+FMQRY: Filemaker queries
+8c6h
+FMSQRY: File maker queries
+8c7h
+FNGROUP12: Function Group
+898h
+FNGROUPCOUNT: Built-in Function Group Count
+9Ch
+FNGROUPNAME: Function Group Name
+9Ah
+FONT: Font Description
+231h
+FOOTER: Print Footer on Each Page
+15h
+FORCEFULLCALCULATION: Force Full Calculation Mode
+8A3h
+FORMAT: Number Format
+41Eh
+FORMULA: Cell Formula
+406h
+GCW: Global Column-Width Flags
+ABh
+GRIDSET: State Change of Gridlines Option
+82h
+GUIDTYPELIB: VB Project Typelib GUID
+897h
+GUTS: Size of Row and Column Gutters
+80h
+HCENTER: Center Between Horizontal Margins
+83h
+HEADER: Print Header on Each Page
+14h
+HEADERFOOTER: Header Footer
+89Ch
+HFPicture: Header / Footer Picture
+866h
+HIDEOBJ: Object Display Options
+8Dh
+HLINK: Hyperlink
+1B8h
+HLINKTOOLTIP: Hyperlink Tooltip
+800h
+HORIZONTALPAGEBREAKS: Explicit Row Page Breaks
+1Bh
+IMDATA: Image Data
+7Fh
+INDEX: Index Record
+20Bh
+INTERFACEEND: End of User Interface Records
+E2h
+INTERFACEHDR: Beginning of User Interface Records
+E1h
+ITERATION: Iteration Mode
+11h
+LABEL: Cell Value, String Constant
+204h
+LABELSST: Cell Value, String Constant/SST
+FDh
+LEFTMARGIN: Left Margin Measurement
+26h
+LHNGRAPH: Named Graph Information
+95h
+LHRECORD: .WK? File Conversion Information
+94h
+LIST12: Extra Table Data Introduced in Excel 2007
+877h
+LISTCF: List Cell Formatting
+8c5h
+LISTCONDFMT: List Conditional Formatting
+8c4h
+LISTDV: List Data Validation
+8c3h
+LISTFIELD: List Field
+8c2h
+LISTOBJ: List Object
+8c1h
+LNEXT: Extension information for borders in Mac Office 11
+8c9h
+LPR: Sheet Was Printed Using LINE.PRINT()
+98h
+MDTB: Block of Metadata Records
+88Ah
+MDTINFO: Information about a Metadata Type
+884h
+MDXPROP:Member Property MDX Metadata
+888h
+MDXKPI:Key Performance Indicator MDX Metadata
+889h
+MDXSET:Set MDX Metadata
+887h
+MDXSTR: MDX Metadata String
+885h
+MDXTUPLE: Tuple MDX Metadata
+886h
+MERGECELLS: Merged Cells
+E5h
+MKREXT: Extension information for markers in Mac Office 11
+8cah
+MMS: ADDMENU/DELMENU Record Group Count
+C1h
+MSODRAWING: Microsoft Office Drawing
+ECh
+MSODRAWINGGROUP: Microsoft Office Drawing Group
+EBh
+MSODRAWINGSELECTION: Microsoft Office Drawing Selection
+EDh
+MTRSETTINGS: Multi-Threaded Calculation Settings
+89Ah
+MULBLANK: Multiple Blank Cells
+BEh
+MULRK: Multiple RK Cells
+BDh
+NAME: Defined Name
+218h
+NAMECMT: Name Comment
+894h
+NAMEFNGRP12: Extra Function Group
+899h
+NAMEPUBLISH: Publish to Excel Server Data for Name
+893h
+NOTE: Comment Associated with a Cell
+1Ch
+NUMBER: Cell Value, Floating-Point Number
+203h
+OBJ: Describes a Graphic Object
+5Dh
+OBJPROTECT: Objects Are Protected
+63h
+OBPROJ: Visual Basic Project
+D3h
+OLEDBCONN: OLE Database Connection
+80Ah
+OLESIZE: Size of OLE Object
+DEh
+PALETTE: Color Palette Definition
+92h
+PANE: Number of Panes and Their Position
+41h
+PARAMQRY: Query Parameters
+DCh
+PASSWORD: Protection Password
+13h
+PLS: Environment-Specific Print Record
+4Dh
+PLV: Page Layout View in Mac Excel 11
+8c8h
+PLV: Page Layout View Settings in Excel 2007
+88Bh
+PRECISION: Precision
+0Eh
+PRINTGRIDLINES: Print Gridlines Flag
+2Bh
+PRINTHEADERS: Print Row/Column Labels
+2Ah
+PROTECT: Protection Flag
+12h
+PROT4REV: Shared Workbook Protection Flag
+1AFh
+PROT4REVPASS: Shared Workbook Protection Password
+1BCh
+PUB: Publisher
+89h
+QSI: External Data Range
+1ADh
+QSIF: Query Table Field Formatting
+807h
+QSIR: Query Table Formatting
+806h
+QSISXTAG: PivotTable and Query Table Extensions
+802h
+REALTIMEDATA: Real-Time Data (RTD)
+813h
+RECALCID: Recalc Information
+1C1h
+RECIPNAME: Recipient Name
+B9h
+REFMODE: Reference Mode
+0Fh
+REFRESHALL: Refresh Flag
+1B7h
+RIGHTMARGIN: Right Margin Measurement
+27h
+RK: Cell Value, RK Number
+7Eh
+ROW: Describes a Row
+208h
+RSTRING: Cell with Character Formatting
+D6h
+SAVERECALC: Recalculate Before Save
+5Fh
+SCENARIO: Scenario Data
+AFh
+SCENMAN: Scenario Output Data
+AEh
+SCENPROTECT: Scenario Protection
+DDh
+SCL: Window Zoom Magnification
+A0h
+SELECTION: Current Selection
+1Dh
+SETUP: Page Setup
+A1h
+SHEETEXT: Extra Sheet Info
+862h
+SHRFMLA: Shared Formula
+BCh
+SORT: Sorting Options
+90h
+SORTDATA12: Sort Data 12
+895h
+SOUND: Sound Note
+96h
+SST: Shared String Table
+FCh
+STANDARDWIDTH: Standard Column Width
+99h
+STRING: String Value of a Formula
+207h
+STYLE: Style Information
+293h
+STYLEEXT: Named Cell Style Extension
+892h
+SUB: Subscriber
+91h
+SUPBOOK: Supporting Workbook
+1AEh
+SXADDL: Pivot Table Additional Info
+864h
+SXADDL12: Additional Workbook Connections Information
+881h
+SXDB: PivotTable Cache Data
+C6h
+SXDBEX: PivotTable Cache Data
+122h
+SXDI: Data Item
+C5h
+SXDXF: Pivot Table Formatting
+F4h
+SXEX: PivotTable View Extended Information
+F1h
+SXEXT: External Source Information
+DCh
+SXFDBTYPE: SQL Datatype Identifier
+1BBh
+SXFILT: PivotTable Rule Filter
+F2h
+SXFMLA: Pivot Table Parsed Expression
+F9h
+SXFORMAT: PivotTable Format Record
+FBh
+SXFORMULA: PivotTable Formula Record
+103h
+SXIDSTM: Stream ID
+D5h
+SXITM: Pivot Table Item Indexes
+F5h
+SXIVD: Row/Column Field IDs
+B4h
+SXLI: Line Item Array
+B5h
+SXNAME: PivotTable Name
+F6h
+SXPAIR: PivotTable Name Pair
+F8h
+SXPI: Page Item
+B6h
+SXPIEX: OLAP Page Item Extensions
+80Eh
+SXRULE: PivotTable Rule Data
+F0h
+SXSELECT: PivotTable Selection Information
+F7h
+SXSTRING: String
+CDh
+SXTBL: Multiple Consolidation Source Info
+D0h
+SXTBPG: Page Item Indexes
+D2h
+SXTBRGIITM: Page Item Name Count
+D1h
+SXTH: PivotTable OLAP Hierarchy
+80Dh
+SXVD: View Fields
+B1h
+SXVDEX: Extended PivotTable View Fields
+100h
+SXVDTEX: View Dimension OLAP Extensions
+80Fh
+SXVI: View Item
+B2h
+SXVIEW: View Definition
+B0h
+SXVIEWEX: Pivot Table OLAP Extensions
+80Ch
+SXVIEWEX9: Pivot Table Extensions
+810h
+SXVS: View Source
+E3h
+TABID: Sheet Tab Index Array
+13Dh
+TABIDCONF: Sheet Tab ID of Conflict History
+EAh
+TABLE: Data Table
+236h
+TABLESTYLE: Table Style
+88Fh
+TABLESTYLEELEMENT: Table Style Element
+890h
+TABLESTYLES: Table Styles
+88Eh
+TEMPLATE: Workbook Is a Template
+60h
+THEME: Theme
+896h
+TOPMARGIN: Top Margin Measurement
+28h
+TXO: Text Object
+1B6h
+TXTQUERY: Text Query Information
+805h
+UDDESC: Description String for Chart Autoformat
+DFh
+UNCALCED: Recalculation Status
+5Eh
+USERBVIEW: Workbook Custom View Settings
+1A9h
+USERSVIEWBEGIN: Custom View Settings
+1AAh
+USERSVIEWEND: End of Custom View Records
+1ABh
+USESELFS: Natural Language Formulas Flag
+160h
+VCENTER: Center Between Vertical Margins
+84h
+VERTICALPAGEBREAKS: Explicit Column Page Breaks
+1Ah
+WEBPUB: Web Publish Item
+801h
+WINDOW1: Window Information
+3Dh
+WINDOW2: Sheet Window Information
+23Eh
+WINDOWPROTECT: Windows Are Protected
+19h
+WOPT: Web Options
+80Bh
+WRITEACCESS: Write Access User Name
+5Ch
+WRITEPROT: Workbook Is Write-Protected
+86h
+WSBOOL: Additional Workspace Information
+81h
+XCT: CRN Record Count
+59h
+XF: Extended Format
+E0h
+XFCRC: XF Extensions Checksum
+87Ch
+XFEXT: XF Extension
+87Dh
+XL5MODIFY: Flag for DSF
+162h
