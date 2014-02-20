@@ -15,3 +15,7 @@ Usage
 -----
 
 `./xls2dsv -help`
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/n3rd4n1/xls2dsv/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
