@@ -8,7 +8,7 @@ This program was originally created to help in the conversion process of Excel f
 Building
 --------
 
-Executing make will build the utility as "xls2dsv". Makefile can be modified to specify a different compiler and compile flags.
+Executing make will build the utility as `xls2dsv`. Makefile can be modified to specify a different compiler and compile flags.
 
 
 Usage
